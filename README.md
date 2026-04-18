@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Mutasem Kharma
 
-**Security Engineer | Open-Source Toolsmith | eBPF Specialist**
+**Security Engineer | Open-Source Toolsmith | eBPF Specialist | Cybersecurity Researcher**
 
-I build high-performance, offensive and defensive security tools designed for the modern cloud-native landscape. My work focuses on low-level system observation, automated vulnerability research, and autonomous security agents.
+I build high-performance, offensive and defensive security tools designed for the modern cloud-native landscape. My work focuses on **low-level system observation**, **automated vulnerability research (BOLA/IDOR)**, and **autonomous security agents**. With a passion for open-source software, I specialize in creating tools for **Linux malware triage**, **incident response**, and **API security testing**.
 
 ---
 
@@ -43,7 +43,7 @@ I build high-performance, offensive and defensive security tools designed for th
 - **LinkedIn**: [Mutasem Kharma](https://www.linkedin.com/in/mutasem-kharma/)
 - **X (Twitter)**: [@mutasem_mk4](https://twitter.com/mutasem_mk4)
 - **Dev.to**: [Mutasem Kharma](https://dev.to/mutasem04)
-- **Portfolio**: [Kharma.dev](https://mutasem-mk4.github.io/procscope/)
+- **Portfolio**: [Kharma.dev](https://mutasem-portfolio.vercel.app/)
 
 ---
 
