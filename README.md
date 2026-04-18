@@ -11,7 +11,8 @@ I build high-performance, offensive and defensive security tools designed for th
 #### 🔍 [procscope](https://github.com/Mutasem-mk4/procscope)
 *Zero-overhead eBPF process tracer for Linux malware triage.*
 - **Impact**: Provides a tactical "sniper rifle" view of process behavior without the noise of system-wide EDRs or the overhead of `strace`.
-- **Tech**: Go, eBPF (CO-RE), Bluetooth/Linux Kernel.
+- **Packaging & Distribution**: Landed Debian autopkgtest and packaging-readiness improvements upstream, submitted the tool to ParrotSec, and opened the BlackArch package PR.
+- **Tech**: Go, eBPF (CO-RE), Linux kernel tracing, Debian/Arch packaging.
 - **[Try it in your browser!](https://killercoda.com/mutasem04/scenario/procscope-scenario)**
 
 #### 🛡️ [Vex](https://github.com/Mutasem-mk4/Vex)
