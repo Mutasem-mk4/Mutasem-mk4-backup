@@ -33,8 +33,8 @@ I build high-performance, offensive and defensive security tools designed for th
 ### 📊 Stats & Impact
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mutasem-mk4&show_icons=true&theme=tokyonight" alt="Mutasem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mutasem-mk4&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api-username=Mutasem-mk4&show_icons=true&theme=tokyonight" alt="Mutasem's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/-username=Mutasem-mk4&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
